@@ -4,3 +4,9 @@ body {background-color:#BFD3F8;
 h1 {color:#000C1C;
     text-align:center;
    }
+section {background-color:white;
+        width:70%;
+        margin:auto;
+        padding:40px;
+        border-radius:15px;
+        }
